@@ -1,0 +1,24 @@
+*{
+    margin: 0px; padding: 0px; box-sizing: border-box;
+}
+.navbar{
+    display: flex; justify-content: space-between; align-items: center;padding: 0px 40px; background-color: lightblue;}
+    .navbar-list{ display: flex; gap: 20px; align-items: center;}
+    li{ list-style-type: none;}
+    .sag{ margin-right:20px; }
+    .sol{margin-left: 0px;}
+    *{margin: 0px; padding: 0px; box-sizing: border-box;}
+    .navbar-list li a{color: white; text-decoration: none; font-size: 20px;}
+   .sol .navbar-list li:first-child{ background-color: pink;padding: 16px 5px;}
+   
+   .cizgi{padding: 8px 0px; border: 3px solid white;}
+   footer{ width: 100%; height: 200px; display: flex; justify-content:center; align-items: center; background-color: aquamarine; gap:15px}
+   .ortacizgi{width: 5px;height: 100px; background-color: white; border: 1px solid white;}
+   li{ list-style-type: none;font-size: 15px; color: white;}
+   .sağ1 ul{
+    display: flex; justify-content: space-between; gap:20px;
+   }
+   .sol1 ul li{font-size: 14px; text-transform: uppercase;}
+
+       
+
